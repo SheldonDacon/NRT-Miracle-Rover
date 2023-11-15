@@ -1,6 +1,8 @@
 # NRT-Miracle-Rover
 UTRA Hacks 2023 project done by Team NRT. Function written in Arduino/C++.
 
+Created by Sheldon Martin and Chris.
+
 
 The compeleted Miracle Rover:
 ![completed_rover](https://github.com/MartinCalcaterra/NRT-Miracle-Rover/blob/main/img/mr_completec.jpg?raw=true)
