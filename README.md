@@ -4,18 +4,18 @@ UTRA Hacks 2023 project done by Team NRT. Function written in Arduino/C++.
 
 This project involves the creation of an autonomous robot using Arduino, designed to navigate its environment and perform various tasks without human intervention. The robot is equipped with sensors, motors, and a microcontroller to enable it to sense and react to its surroundings.
 
-Features
+# Features
 
-Obstacle Avoidance: The robot is programmed to detect obstacles using sensors and autonomously navigate around them.
-Line Following: The ability to follow a predefined path using line-following sensors.
+- Obstacle Avoidance: The robot is programmed to detect obstacles using sensors and autonomously navigate around them.
+- Line Following: The ability to follow a predefined path using line-following sensors.
 
-Components
+# Components
 
-Arduino Board: 
-Motors:
-Sensors: 
-Chassis:
-Power Supply:
+ - Arduino Board: 
+ - Motors:
+ - Sensors: 
+ - Chassis:
+- Power Supply:
 
 WIP versions of the rover:
 ![rover_wip_testing](https://github.com/MartinCalcaterra/NRT-Miracle-Rover/blob/main/img/mr_test.jpg?raw=true)
