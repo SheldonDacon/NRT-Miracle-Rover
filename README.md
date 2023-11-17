@@ -11,11 +11,11 @@ This project involves the creation of an autonomous robot using Arduino, designe
 
 # Components
 
- - Arduino Board: 
- - Motors:
- - Sensors: 
- - Chassis:
-- Power Supply:
+ - Arduino Board: Arduino Uno Board
+ - Motors: 2 servo motors
+ - Sensors: one infared sensor one and ultrasonic distance sensor
+ - Chassis: custom made chasis using the breadboard as a base
+- Power Supply: one 9 Volt battery
 
 WIP versions of the rover:
 ![rover_wip_testing](https://github.com/MartinCalcaterra/NRT-Miracle-Rover/blob/main/img/mr_test.jpg?raw=true)
