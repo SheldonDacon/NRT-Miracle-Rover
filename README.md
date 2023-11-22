@@ -21,7 +21,7 @@ This project involves the creation of an robot using Arduino, designed to naviga
   
 # Hardware design
 - Secamtic of the wriring of the  infared sensor.
-![inared](img/mr_test)
+![inared](img/infared.png)
 - Secmatic of the wiring of the ultrasonic distance sensor.
   
 
