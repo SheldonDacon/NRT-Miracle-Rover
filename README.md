@@ -21,7 +21,7 @@ This project involves the creation of an robot using Arduino, designed to naviga
   
 # Hardware design
 - Secamtic of the wriring of the  infared sensor.
-![inared](https://github.com/SheldonDacon/NRT-Miracle-Rover/blob/main/img/infared?raw=true)
+![inared](https://github.com/SheldonDacon/NRT-Miracle-Rover/main/img/infared?raw=true)
 - Secmatic of the wiring of the ultrasonic distance sensor.
   
 
