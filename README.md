@@ -2,7 +2,7 @@
 UTRA Hacks 2023 project done by Team NRT. Function written in Arduino/C++.
 
 
-This project involves the creation of an autonomous robot using Arduino, designed to navigate its environment and perform various tasks without human intervention. The robot is equipped with sensors, motors, and a microcontroller to enable it to sense and react to its surroundings.
+This project involves the creation of an robot using Arduino, designed to navigate a set course. The robot is equipped with sensors, motors, and a microcontroller to enable it to sense its surroundings.
 
 
 # Components
@@ -16,7 +16,7 @@ This project involves the creation of an autonomous robot using Arduino, designe
 
 # Features
 
-- Obstacle Avoidance: The robot is programmed to detect obstacles using sensors and autonomously navigate around them. The ultrasonic sensor dectects objects
+- Obstacle Avoidance: The robot is programmed to detect obstacles using sensors. The ultrasonic sensor can dectects objects.
 - Line Following: The ability to follow a predefined path using the infrared sensor.
   
 # Hardware design
